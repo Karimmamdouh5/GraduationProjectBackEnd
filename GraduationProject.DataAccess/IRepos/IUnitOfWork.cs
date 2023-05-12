@@ -9,5 +9,6 @@ namespace GraduationProject.DataAccess.IRepos
     public interface IUnitOfWork:IDisposable
     {
         IProductsRepository Products { get; }
+        ICategoriesRepository Categories { get; }
     }
 }

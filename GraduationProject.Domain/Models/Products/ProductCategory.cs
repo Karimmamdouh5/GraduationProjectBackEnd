@@ -11,8 +11,9 @@ namespace GraduationProject.Domain.Models.Products
     [Table("Prod_ProductsCategories")]
     public class ProductCategory
     {
-
         public int ID { get; set; }
         public string Name { get; set; }
+        
+        public bool isPcComponent { get; set; }
     }
 }

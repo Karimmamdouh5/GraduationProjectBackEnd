@@ -14,12 +14,13 @@ namespace GraduationProject.DataAccess.Repos
         public readonly ApplicationDbContext _context;
 
         public IProductsRepository Products { get; private set; }
+        public ICategoriesRepository Categories { get; private set; }
 
         public UnitOfWork(ApplicationDbContext context)
         {
             _context= context;
             Products = new ProductsRepository(_context);
-
+            Categories = new CategoriesRepository(_context);
         }
 
 

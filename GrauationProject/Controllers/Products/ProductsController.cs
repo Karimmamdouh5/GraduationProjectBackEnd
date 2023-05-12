@@ -27,5 +27,19 @@ namespace GrauationProject.Api.Controllers.Products
                 return StatusCode(500,data.Message);
             }
         }
+
+        [HttpGet("ListOfCategories")]
+        public async Task<IActionResult> ListOfCategories()
+        {
+            var data = await _productsService.ListOfCategories();
+            if (data.IsSuccess == true)
+            {
+                return Ok(data);
+            }
+            else
+            {
+                return StatusCode(500, data.Message);
+            }
+        }
     }
 }

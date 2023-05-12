@@ -15,5 +15,7 @@ namespace GraduationProject.Services.IServices
         Task<Response<ShopProduct>> FindProduct(Expression<Func<ShopProduct, bool>> filter);
         Task<Response<ShopProduct>> AddProduct(ShopProduct item);
         Response<ShopProduct> UpdateProduct(ShopProduct item);
+
+        Task<Response<List<ProductCategory>>> ListOfCategories();
     }
 }

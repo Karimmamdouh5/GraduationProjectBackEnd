@@ -10,11 +10,11 @@
         "projectUniqueName": "D:\\My Private Files\\GraduationProject\\GrauationProject\\GraduationProject.DataAccess\\GraduationProject.DataAccess.csproj",
         "projectName": "GraduationProject.DataAccess",
         "projectPath": "D:\\My Private Files\\GraduationProject\\GrauationProject\\GraduationProject.DataAccess\\GraduationProject.DataAccess.csproj",
-        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\karim\\.nuget\\packages\\",
         "outputPath": "D:\\My Private Files\\GraduationProject\\GrauationProject\\GraduationProject.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\karim\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -81,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -91,11 +91,11 @@
         "projectUniqueName": "D:\\My Private Files\\GraduationProject\\GrauationProject\\GraduationProject.Domain\\GraduationProject.Domain.csproj",
         "projectName": "GraduationProject.Domain",
         "projectPath": "D:\\My Private Files\\GraduationProject\\GrauationProject\\GraduationProject.Domain\\GraduationProject.Domain.csproj",
-        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\karim\\.nuget\\packages\\",
         "outputPath": "D:\\My Private Files\\GraduationProject\\GrauationProject\\GraduationProject.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\karim\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -142,7 +142,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -152,11 +152,11 @@
         "projectUniqueName": "D:\\My Private Files\\GraduationProject\\GrauationProject\\GraduationProject.Services\\GraduationProject.Services.csproj",
         "projectName": "GraduationProject.Services",
         "projectPath": "D:\\My Private Files\\GraduationProject\\GrauationProject\\GraduationProject.Services\\GraduationProject.Services.csproj",
-        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\karim\\.nuget\\packages\\",
         "outputPath": "D:\\My Private Files\\GraduationProject\\GrauationProject\\GraduationProject.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\karim\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -204,7 +204,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -214,11 +214,11 @@
         "projectUniqueName": "D:\\My Private Files\\GraduationProject\\GrauationProject\\GrauationProject\\GrauationProject.Api.csproj",
         "projectName": "GrauationProject.Api",
         "projectPath": "D:\\My Private Files\\GraduationProject\\GrauationProject\\GrauationProject\\GrauationProject.Api.csproj",
-        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\karim\\.nuget\\packages\\",
         "outputPath": "D:\\My Private Files\\GraduationProject\\GrauationProject\\GrauationProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\karim\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -293,7 +293,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

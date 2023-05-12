@@ -3658,7 +3658,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Dell\\.nuget\\packages\\": {}
+    "C:\\Users\\karim\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -3666,11 +3666,11 @@
       "projectUniqueName": "D:\\My Private Files\\GraduationProject\\GrauationProject\\GraduationProject.DataAccess\\GraduationProject.DataAccess.csproj",
       "projectName": "GraduationProject.DataAccess",
       "projectPath": "D:\\My Private Files\\GraduationProject\\GrauationProject\\GraduationProject.DataAccess\\GraduationProject.DataAccess.csproj",
-      "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\karim\\.nuget\\packages\\",
       "outputPath": "D:\\My Private Files\\GraduationProject\\GrauationProject\\GraduationProject.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\karim\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3737,7 +3737,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

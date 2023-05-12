@@ -15,5 +15,6 @@ namespace GraduationProject.DataAccess.Repos
         protected readonly ApplicationDbContext _context;
         public ProductsRepository(ApplicationDbContext context):base(context) { }
 
+
     }
 }

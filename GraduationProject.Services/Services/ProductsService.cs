@@ -103,6 +103,21 @@ namespace GraduationProject.Services.Services
 
         }
 
+        public async Task<Response<List<ProductCategory>>> ListOfCategories()
+        {
+            try
+            {
+                var data = await _UnitOfWork.Categories.ListOfCategories();
+                return new Response<List<ProductCategory>>() { Data = data, IsSuccess = true };
+            }
+            catch (Exception ex)
+            {
+                return new Response<List<ProductCategory>>() {Message=ex.Message, IsSuccess = false };
+
+            }
+
+        }
+
         public Response<ShopProduct> UpdateProduct(ShopProduct item)
         {
             try
@@ -115,5 +130,7 @@ namespace GraduationProject.Services.Services
                 return new Response<ShopProduct>() { IsSuccess = false,Message=ex.Message };
             }
         }
+        
+
     }
 }
