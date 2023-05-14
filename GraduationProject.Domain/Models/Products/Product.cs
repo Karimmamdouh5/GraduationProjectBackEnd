@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace GraduationProject.Domain.Models.Products
 {
     [Table("Prod_Products")]
-    public class Product
+    public class Product:BaseEntity
     {
         [Column("ID")]
         public int Id { get; set; }

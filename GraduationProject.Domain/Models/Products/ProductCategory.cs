@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 namespace GraduationProject.Domain.Models.Products
 {
     [Table("Prod_ProductsCategories")]
-    public class ProductCategory
+    public class ProductCategory : BaseEntity
     {
         public int ID { get; set; }
         public string Name { get; set; }

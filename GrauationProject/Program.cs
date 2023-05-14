@@ -2,14 +2,16 @@ using GraduationProject.DataAccess.DbContexts;
 using GraduationProject.DataAccess.IRepos;
 using GraduationProject.DataAccess.Repos;
 using GraduationProject.Services.IServices;
+using GraduationProject.Services.IServices.ComputersServices;
 using GraduationProject.Services.Services;
+using GraduationProject.Services.Services.ComputersServices;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddTransient<IUnitOfWork, UnitOfWork>();
 builder.Services.AddScoped<IProductsService, ProductsService>();
-
+builder.Services.AddScoped<IComputersService, ComputersService>();
 
 // Add services to the container.
 

@@ -15,5 +15,7 @@ namespace GraduationProject.DataAccess.IRepos
         public T Update(T item);
         Task<bool> ExistAsync(Expression<Func<T, bool>> filter = null, string includeProperties = null, bool ignoreQueryFilters = false);
 
+
+
     }
 }

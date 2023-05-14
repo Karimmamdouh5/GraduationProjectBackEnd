@@ -1,4 +1,5 @@
-﻿using GraduationProject.Domain.Models.Products;
+﻿using GraduationProject.Domain.Models.Computers;
+using GraduationProject.Domain.Models.Products;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -21,10 +22,11 @@ namespace GraduationProject.DataAccess.DbContexts
         }
 
         #region DbSets
-        public DbSet<Product> products { get; set; }
+       // public DbSet<Product> products { get; set; }
         public DbSet<ProductCategory> categories { get; set; }
-
         public DbSet<ShopProduct> ShopProducts { get; set; }
+        public DbSet<Computers> Computers { get; set; }
+        public DbSet<Purposes> Purposes { get; set; }
         #endregion
     }
 }

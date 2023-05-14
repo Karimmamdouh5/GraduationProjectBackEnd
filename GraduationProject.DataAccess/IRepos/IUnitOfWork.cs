@@ -10,5 +10,6 @@ namespace GraduationProject.DataAccess.IRepos
     {
         IProductsRepository Products { get; }
         ICategoriesRepository Categories { get; }
+        IComputersRepository Computers { get; }
     }
 }
