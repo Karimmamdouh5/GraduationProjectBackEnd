@@ -1,0 +1,12 @@
+D:\My Private Files\GraduationProject\GrauationProject\GraduationProject.Domain\bin\Release\net6.0\GraduationProject.Domain.deps.json
+D:\My Private Files\GraduationProject\GrauationProject\GraduationProject.Domain\bin\Release\net6.0\GraduationProject.Domain.dll
+D:\My Private Files\GraduationProject\GrauationProject\GraduationProject.Domain\bin\Release\net6.0\GraduationProject.Domain.pdb
+D:\My Private Files\GraduationProject\GrauationProject\GraduationProject.Domain\obj\Release\net6.0\GraduationProject.Domain.csproj.AssemblyReference.cache
+D:\My Private Files\GraduationProject\GrauationProject\GraduationProject.Domain\obj\Release\net6.0\GraduationProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Private Files\GraduationProject\GrauationProject\GraduationProject.Domain\obj\Release\net6.0\GraduationProject.Domain.AssemblyInfoInputs.cache
+D:\My Private Files\GraduationProject\GrauationProject\GraduationProject.Domain\obj\Release\net6.0\GraduationProject.Domain.AssemblyInfo.cs
+D:\My Private Files\GraduationProject\GrauationProject\GraduationProject.Domain\obj\Release\net6.0\GraduationProject.Domain.csproj.CoreCompileInputs.cache
+D:\My Private Files\GraduationProject\GrauationProject\GraduationProject.Domain\obj\Release\net6.0\GraduationProject.Domain.dll
+D:\My Private Files\GraduationProject\GrauationProject\GraduationProject.Domain\obj\Release\net6.0\refint\GraduationProject.Domain.dll
+D:\My Private Files\GraduationProject\GrauationProject\GraduationProject.Domain\obj\Release\net6.0\GraduationProject.Domain.pdb
+D:\My Private Files\GraduationProject\GrauationProject\GraduationProject.Domain\obj\Release\net6.0\ref\GraduationProject.Domain.dll

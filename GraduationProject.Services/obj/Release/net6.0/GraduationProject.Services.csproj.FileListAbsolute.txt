@@ -1,0 +1,17 @@
+D:\My Private Files\GraduationProject\GrauationProject\GraduationProject.Services\bin\Release\net6.0\GraduationProject.Services.deps.json
+D:\My Private Files\GraduationProject\GrauationProject\GraduationProject.Services\bin\Release\net6.0\GraduationProject.Services.dll
+D:\My Private Files\GraduationProject\GrauationProject\GraduationProject.Services\bin\Release\net6.0\GraduationProject.Services.pdb
+D:\My Private Files\GraduationProject\GrauationProject\GraduationProject.Services\bin\Release\net6.0\GraduationProject.DataAccess.dll
+D:\My Private Files\GraduationProject\GrauationProject\GraduationProject.Services\bin\Release\net6.0\GraduationProject.Domain.dll
+D:\My Private Files\GraduationProject\GrauationProject\GraduationProject.Services\bin\Release\net6.0\GraduationProject.DataAccess.pdb
+D:\My Private Files\GraduationProject\GrauationProject\GraduationProject.Services\bin\Release\net6.0\GraduationProject.Domain.pdb
+D:\My Private Files\GraduationProject\GrauationProject\GraduationProject.Services\obj\Release\net6.0\GraduationProject.Services.csproj.AssemblyReference.cache
+D:\My Private Files\GraduationProject\GrauationProject\GraduationProject.Services\obj\Release\net6.0\GraduationProject.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Private Files\GraduationProject\GrauationProject\GraduationProject.Services\obj\Release\net6.0\GraduationProject.Services.AssemblyInfoInputs.cache
+D:\My Private Files\GraduationProject\GrauationProject\GraduationProject.Services\obj\Release\net6.0\GraduationProject.Services.AssemblyInfo.cs
+D:\My Private Files\GraduationProject\GrauationProject\GraduationProject.Services\obj\Release\net6.0\GraduationProject.Services.csproj.CoreCompileInputs.cache
+D:\My Private Files\GraduationProject\GrauationProject\GraduationProject.Services\obj\Release\net6.0\GraduationProject.Services.csproj.CopyComplete
+D:\My Private Files\GraduationProject\GrauationProject\GraduationProject.Services\obj\Release\net6.0\GraduationProject.Services.dll
+D:\My Private Files\GraduationProject\GrauationProject\GraduationProject.Services\obj\Release\net6.0\refint\GraduationProject.Services.dll
+D:\My Private Files\GraduationProject\GrauationProject\GraduationProject.Services\obj\Release\net6.0\GraduationProject.Services.pdb
+D:\My Private Files\GraduationProject\GrauationProject\GraduationProject.Services\obj\Release\net6.0\ref\GraduationProject.Services.dll

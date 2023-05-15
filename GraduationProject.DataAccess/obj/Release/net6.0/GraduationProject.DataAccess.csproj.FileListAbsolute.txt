@@ -1,0 +1,17 @@
+D:\My Private Files\GraduationProject\GrauationProject\GraduationProject.DataAccess\bin\Release\net6.0\GraduationProject.DataAccess.deps.json
+D:\My Private Files\GraduationProject\GrauationProject\GraduationProject.DataAccess\bin\Release\net6.0\GraduationProject.DataAccess.runtimeconfig.json
+D:\My Private Files\GraduationProject\GrauationProject\GraduationProject.DataAccess\bin\Release\net6.0\GraduationProject.DataAccess.dll
+D:\My Private Files\GraduationProject\GrauationProject\GraduationProject.DataAccess\bin\Release\net6.0\GraduationProject.DataAccess.pdb
+D:\My Private Files\GraduationProject\GrauationProject\GraduationProject.DataAccess\bin\Release\net6.0\GraduationProject.Domain.dll
+D:\My Private Files\GraduationProject\GrauationProject\GraduationProject.DataAccess\bin\Release\net6.0\GraduationProject.Domain.pdb
+D:\My Private Files\GraduationProject\GrauationProject\GraduationProject.DataAccess\obj\Release\net6.0\GraduationProject.DataAccess.csproj.AssemblyReference.cache
+D:\My Private Files\GraduationProject\GrauationProject\GraduationProject.DataAccess\obj\Release\net6.0\GraduationProject.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Private Files\GraduationProject\GrauationProject\GraduationProject.DataAccess\obj\Release\net6.0\GraduationProject.DataAccess.AssemblyInfoInputs.cache
+D:\My Private Files\GraduationProject\GrauationProject\GraduationProject.DataAccess\obj\Release\net6.0\GraduationProject.DataAccess.AssemblyInfo.cs
+D:\My Private Files\GraduationProject\GrauationProject\GraduationProject.DataAccess\obj\Release\net6.0\GraduationProject.DataAccess.csproj.CoreCompileInputs.cache
+D:\My Private Files\GraduationProject\GrauationProject\GraduationProject.DataAccess\obj\Release\net6.0\GraduationProject.DataAccess.csproj.CopyComplete
+D:\My Private Files\GraduationProject\GrauationProject\GraduationProject.DataAccess\obj\Release\net6.0\GraduationProject.DataAccess.dll
+D:\My Private Files\GraduationProject\GrauationProject\GraduationProject.DataAccess\obj\Release\net6.0\refint\GraduationProject.DataAccess.dll
+D:\My Private Files\GraduationProject\GrauationProject\GraduationProject.DataAccess\obj\Release\net6.0\GraduationProject.DataAccess.pdb
+D:\My Private Files\GraduationProject\GrauationProject\GraduationProject.DataAccess\obj\Release\net6.0\GraduationProject.DataAccess.genruntimeconfig.cache
+D:\My Private Files\GraduationProject\GrauationProject\GraduationProject.DataAccess\obj\Release\net6.0\ref\GraduationProject.DataAccess.dll
