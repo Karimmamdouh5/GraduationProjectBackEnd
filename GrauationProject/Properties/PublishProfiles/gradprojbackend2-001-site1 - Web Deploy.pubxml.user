@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAK04x4LIbfUyp+SjgM+xJ2AAAAAACAAAAAAAQZgAAAAEAACAAAACVq9TAt+2pmhIm/35PpdF8tbACtr6A1VChPACCtR3VAAAAAAAOgAAAAAIAACAAAAA6ns5Dw6zKy/m0we36F6AtFkrTMiytwSm1khHmL9gTdiAAAAAADmC+60MARimzsctkrgCeklMGXUVCbSPzPyUij4w7ZUAAAABGQf25ZaKSBDkoRzF2Qm4ni0NAnEtMe5Nnqlbg65irJ3k7VY4xxI4KuqK57C/kFvVabngml0rLJ39St0hnXBVA</EncryptedPassword>
+    <History>True|2023-05-16T08:52:42.0163138Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=SQL8001.site4now.net%3bInitial Catalog=db_a99515_gradprojdb%3bUser Id=db_a99515_gradprojdb_admin%3bPassword=Karim164</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
