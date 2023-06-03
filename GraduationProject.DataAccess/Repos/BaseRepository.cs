@@ -41,6 +41,7 @@ namespace GraduationProject.DataAccess.Repos
         public T Update(T item)
         {
             dbSet.Update(item);
+            _context.SaveChanges();
             return item;
         }
 

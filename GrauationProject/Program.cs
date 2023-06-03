@@ -2,10 +2,12 @@ using GraduationProject.DataAccess.DbContexts;
 using GraduationProject.DataAccess.IRepos;
 using GraduationProject.DataAccess.Repos;
 using GraduationProject.Domain.Models.Identity;
-using GraduationProject.Services.IServices;
 using GraduationProject.Services.IServices.ComputersServices;
-using GraduationProject.Services.Services;
+using GraduationProject.Services.IServices.ProductsServices;
+using GraduationProject.Services.IServices.UserServices;
 using GraduationProject.Services.Services.ComputersServices;
+using GraduationProject.Services.Services.ProductsServices;
+using GraduationProject.Services.Services.UserServices;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 

@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
-namespace GrauationProject.Api.Controllers.Computers
+namespace GraduationProject.Api.Controllers.Computers
 {
     [Route("api/[controller]")]
     [ApiController]

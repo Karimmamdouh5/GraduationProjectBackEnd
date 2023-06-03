@@ -1,5 +1,4 @@
-﻿using Azure;
-using GraduationProject.DataAccess.DbContexts;
+﻿using GraduationProject.DataAccess.DbContexts;
 using GraduationProject.DataAccess.IRepos;
 using GraduationProject.Domain.Models.Products;
 using System;

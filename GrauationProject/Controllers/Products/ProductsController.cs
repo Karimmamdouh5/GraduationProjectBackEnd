@@ -1,8 +1,8 @@
-﻿using GraduationProject.Services.IServices;
+﻿using GraduationProject.Services.IServices.ProductsServices;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
-namespace GrauationProject.Api.Controllers.Products
+namespace GraduationProject.Api.Controllers.Products
 {
     [Route("api/[controller]")]
     [ApiController]
@@ -40,6 +40,15 @@ namespace GrauationProject.Api.Controllers.Products
             {
                 return StatusCode(500, data.Message);
             }
+        }
+
+        [HttpPut("DeleteProduct")]
+        public async Task<IActionResult> DeleteProduct(int ProductId)
+        {
+            var result = await _productsService.DeleteProduct(ProductId);
+            if (result.IsSuccess==true)
+                return Ok(result.Message);
+            return StatusCode(500, result.Message);
         }
     }
 }

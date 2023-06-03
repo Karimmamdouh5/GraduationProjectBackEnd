@@ -1,4 +1,5 @@
 D:\My Private Files\GraduationProject\GrauationProject\GraduationProject.Domain\bin\Debug\net6.0\GraduationProject.Domain.deps.json
+D:\My Private Files\GraduationProject\GrauationProject\GraduationProject.Domain\bin\Debug\net6.0\GraduationProject.Domain.runtimeconfig.json
 D:\My Private Files\GraduationProject\GrauationProject\GraduationProject.Domain\bin\Debug\net6.0\GraduationProject.Domain.dll
 D:\My Private Files\GraduationProject\GrauationProject\GraduationProject.Domain\bin\Debug\net6.0\GraduationProject.Domain.pdb
 D:\My Private Files\GraduationProject\GrauationProject\GraduationProject.Domain\obj\Debug\net6.0\GraduationProject.Domain.csproj.AssemblyReference.cache
@@ -9,4 +10,5 @@ D:\My Private Files\GraduationProject\GrauationProject\GraduationProject.Domain\
 D:\My Private Files\GraduationProject\GrauationProject\GraduationProject.Domain\obj\Debug\net6.0\GraduationProject.Domain.dll
 D:\My Private Files\GraduationProject\GrauationProject\GraduationProject.Domain\obj\Debug\net6.0\refint\GraduationProject.Domain.dll
 D:\My Private Files\GraduationProject\GrauationProject\GraduationProject.Domain\obj\Debug\net6.0\GraduationProject.Domain.pdb
+D:\My Private Files\GraduationProject\GrauationProject\GraduationProject.Domain\obj\Debug\net6.0\GraduationProject.Domain.genruntimeconfig.cache
 D:\My Private Files\GraduationProject\GrauationProject\GraduationProject.Domain\obj\Debug\net6.0\ref\GraduationProject.Domain.dll
